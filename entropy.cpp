@@ -41,10 +41,10 @@ int main()
 
         float entropy = compute(input);
         if (entropy <= 30) std::cout << "Password entropy too low. Choose a longer or more complex password.\nUse more characters, and mix uppercase, lowercase, digits, and symbols. \n";
-        else 
+        else {
             std::cout << "Entropy is: " << entropy;
             break;
+        }
     }
-
 }
 
