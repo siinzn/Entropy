@@ -1,4 +1,5 @@
-- To run the program, you can find a folder named entropy in Source Files. In Visual Studio, open that folder and run the file named entropy.cpp.
+- To run the program, you can download the folder from github. In Visual Studio, open that folder and run the file named entropy.cpp.
+- If zipped folder in the submission is used, Use the folder directly in Visual Studio.
 
 - The user is expected to enter a password that they want to check the entropy of. 
 - If the user enters nothing, it is going to promot user again to type the password.
